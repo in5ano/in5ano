@@ -1,7 +1,5 @@
 ### Olar 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Wipro/Hapvida as a Full Stack Developer
 - 🌱 I’m currently learning C# and angular
 - 💬 Ask me about card game events
